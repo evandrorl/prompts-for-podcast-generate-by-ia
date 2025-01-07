@@ -60,35 +60,29 @@ Utilizar uma esteira de prompts para gerar cada etapa do processo criativo.
 
 Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
 
-- 🤖 1. Use os prompts de roteiro no `chagpt`
-- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `midjourney`
+- 🤖 1. Use os prompts de roteiro no `maritaca.ai`
+- 🤖 2. Use os prompts de roteiro gerados pelo 'maritaca.ai' no  `ElevenLabs`
+- 🤖 3. Use os prompts de artes no `ChatGpt`
 
 ## 👨‍💻 Expert
 
 <p>
     <img 
-      align="left" 
-      style="margin: 10px; width: 80px; height: 80px; border-radius: 50%; object-fit: cover;" 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      align=left 
+      margin=10 
+      width=80 
+      style="border-radius: 50%; width: 80px; margin: 10px;" 
+      src="https://avatars.githubusercontent.com/u/68791659?v=4" 
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspEvandro Rosa Lopes<br>
     &nbsp&nbsp&nbsp
-    <a 
-        href="https://github.com/felipeAguiarCode">
-        GitHub
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="www.linkedin.com/in/felipe-exe">
-        LinkedIn
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
-        Instagram
-    </a>
-    &nbsp;|&nbsp;</p>
+    <a href="https://github.com/evandrorl">
+    GitHub</a>&nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/evandro-rosa-lopes-0a3913212/">LinkedIn</a>
+&nbsp;|&nbsp;
+    <a href="https://www.instagram.com/evandrolopesoficial/">
+    Instagram</a>
+&nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
 <p>
