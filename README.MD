@@ -68,9 +68,8 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 <p>
     <img 
-      align=left 
-      margin=10 
-      width=80 
+      align="left" 
+      style="margin: 10px; width: 80px; border-radius: 50%;" 
       src="https://avatars.githubusercontent.com/u/37452836?v=4"
     />
     <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
@@ -93,7 +92,6 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 </p>
 <br/><br/>
 <p>
-
 ---
 
 ⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
