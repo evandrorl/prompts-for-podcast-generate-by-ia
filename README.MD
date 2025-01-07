@@ -69,7 +69,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 <p>
     <img 
       align="left" 
-      style="margin: 10px; width: 80px; border-radius: 50%;" 
+      style="margin: 10px; width: 80px; height: 80px; border-radius: 50%; object-fit: cover;" 
       src="https://avatars.githubusercontent.com/u/37452836?v=4"
     />
     <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
