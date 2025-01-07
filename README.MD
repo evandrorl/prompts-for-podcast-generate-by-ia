@@ -38,12 +38,13 @@ Utilizar uma esteira de prompts para gerar cada etapa do processo criativo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
+- [Maricata.ai](https://chat.maritaca.ai/) 
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
 
 ## ✨ Como foi feito ?
 
-- Roteiro gerado via chatgpt
+- Roteiro gerado via maritaca.ai
 - Audio gerado pela elevenLabs
 - Chatgpt para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
